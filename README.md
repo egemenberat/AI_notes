@@ -1,4 +1,4 @@
-# AI_notes
+# AI Notes
 # AndrewNg - DeepLearning and Machine Learning Specialization Notes
 
 **A comprehensive repository of course materials from Andrew Ng's Machine Learning and Deep Learning Specializations on Coursera.**
